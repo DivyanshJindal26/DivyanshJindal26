@@ -1,8 +1,25 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hello! I'm **Divyansh Jindal**, a developer passionate about full-stack web development, open-source, and cybersecurity.  <br>I primarily work with **React**, **Firebase**, **MongoDB**, and **Express**, and I'm currently exploring **blockchain** and preparing for **Google Summer of Code (GSoC)**.<br><br>---<br><br>## 🚀 Notable Projects<br><br>- 🎟️ **KrackHack**  <br>  A decentralized, blockchain-based ticket booking platform inspired by BookMyShow.<br><br>- 🖼️ **Photo Gallery (IIT Mandi)**  <br>  A performant, full-stack image gallery system developed under IIT Mandi, focusing on offline access and efficient media handling.<br><br>---<br><br>Always looking to **learn**, **collaborate**, and contribute to impactful projects!<br>
+## 👋 About Me
+
+Hello! I'm **Divyansh Jindal**, a developer passionate about full-stack web development, open-source, and cybersecurity.  
+I primarily work with **React**, **Firebase**, **MongoDB**, and **Express**, and I'm currently exploring **blockchain** and preparing for **Google Summer of Code (GSoC)**.
+
+---
+
+## 🚀 Notable Projects
+
+- 🎟️ **KrackHack**  
+  A decentralized, blockchain-based ticket booking platform inspired by BookMyShow.
+
+- 🖼️ **Photo Gallery (IIT Mandi)**  
+  A performant, full-stack image gallery system developed under IIT Mandi, focusing on offline access and efficient media handling.
+
+---
+
+Always looking to **learn**, **collaborate**, and contribute to impactful projects!
 
 
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshj-iitmd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyansh.bt@gmail.com) 
 
 # 💻 Tech Stack:
