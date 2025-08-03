@@ -1,8 +1,7 @@
 ## 👋 About Me
 
 Hello! I'm **Divyansh Jindal**, a developer passionate about full-stack web development, open-source, and cybersecurity.  
-I primarily work with **React**, **Firebase**, **MongoDB**, and **Express**, and I'm currently exploring **blockchain** and preparing for **Google Summer of Code (GSoC)**.
-
+I primarily work with **React**, **Firebase**, **MongoDB**, and **Express**, and I'm currently exploring **blockchain and Web3!**
 ---
 
 ## 🚀 Notable Projects
